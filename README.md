@@ -1,6 +1,6 @@
-# # Social Media Ads Campaign Dashboard
+# Social Media Ads Campaign Dashboard
 
-# # Dashboard Overview
+# Dashboard Overview
 (https://github.com/SaiKarun-28/FUTURE_DS_02/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ## 📊 Project Overview
