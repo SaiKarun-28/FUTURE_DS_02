@@ -1,6 +1,7 @@
 # # Social Media Ads Campaign Dashboard
 
-![Dashboard Overview](Snapshot%20of%20the%20dashboard.jpg)
+# # Dashboard Overview
+(https://github.com/SaiKarun-28/FUTURE_DS_02/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ## 📊 Project Overview
 
@@ -37,7 +38,8 @@ The dashboard tracks the following high-level metrics to gauge overall campaign 
     * **Revenue by Age:** The 30-34 demographic contributes **42.97%** of the total revenue.
 * **Gender Distribution:** A clustered bar chart comparing revenue contributions by gender across different campaigns, showing a relatively balanced split with a slight female lead in the "Festive Offer Drive."
 
-![Demographics View](Screenshot%202025-12-02%20033541.jpg)
+Demographics View
+(https://github.com/SaiKarun-28/FUTURE_DS_02/blob/main/Snapshot%20of%20the%20dashboard.png)
 
 ## 💡 Key Business Insights derived from Data
 
