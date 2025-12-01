@@ -23,6 +23,7 @@ The dashboard tracks the following high-level metrics to gauge overall campaign 
 * **Engagement Rate:** 888.04 (Sum)
 * **Total Clicks:** 24K
 * **Total Conversions:** 2K
+* **Total CTR:** 0.16
 
 ## 🔎 Dashboard Features & Visualizations
 
