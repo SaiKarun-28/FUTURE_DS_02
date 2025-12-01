@@ -1,7 +1,7 @@
 # Social Media Ads Campaign Dashboard
 
 # Dashboard Overview
-https://github.com/SaiKarun-28/FUTURE_DS_02/blob/main/Snapshot%20of%20the%20dashboard.png
+https://github.com/SaiKarun-28/FUTURE_DS_02/blob/main/Dashboard%20Overview.png
 
 ## 📊 Project Overview
 
@@ -39,7 +39,7 @@ The dashboard tracks the following high-level metrics to gauge overall campaign 
 * **Gender Distribution:** A clustered bar chart comparing revenue contributions by gender across different campaigns, showing a relatively balanced split with a slight female lead in the "Festive Offer Drive."
 
 Demographics View
-https://github.com/SaiKarun-28/FUTURE_DS_02/blob/main/Snapshot%20of%20the%20dashboard.png
+https://github.com/SaiKarun-28/FUTURE_DS_02/blob/main/Dashboard%20Overview.png
 
 ## 💡 Key Business Insights derived from Data
 
